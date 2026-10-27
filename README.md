@@ -9,7 +9,12 @@ Me interesa convertir ideas en aplicaciones útiles, claras y funcionales. Traba
 - Gestión de productos, servicios y procesos digitales.
 - Aprendizaje continuo de programación y arquitectura.
 ## Tecnologías y herramientas
-![Tecnologías](https://skillicons.dev/icons?i=js,html,css,git,github,vscode)
+### Lenguajes
+JavaScript, HTML5 y CSS3
+### Frontend
+Diseño responsive e interfaces web
+### Herramientas
+Git, GitHub y Visual Studio Code
 ## Proyectos destacados
 | Proyecto | Descripción |
 | --- | --- |
